@@ -46,19 +46,22 @@ table {
 }
 .fifth {
     text-align: center;
+    background-color: darkred;
 }
 .fifth p{
  font-size: 20px; 
  color: gray;
+ padding: 15px;
 }
 .sixth {
     text-align: center;
+    background-color: darkred;
+    height:1250px;
 }
-.sixth p{
- font-size: 20px; 
-}
+
 .seventh {
     text-align: center;
+    background-color: darkred;
 }
 .seventh p{
  font-size: 20px; 
@@ -68,4 +71,103 @@ table {
 }
 .eighth p{
  font-size: 20px; 
+}
+.eleventh{
+    text-align: left;
+    color: gray;
+    font-size: 20px;
+    padding: 15px;
+}
+.eleventh dd{
+    padding: 15px;
+}
+body{
+    background-image : url(assets/cool.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+    margin: 70px;
+}
+.third{
+    background-image: url(assets/BurgersNSandwich2.png);
+    background-repeat: repeat-y;
+    background-size: cover;
+    height: 550px;
+}
+.feet{
+    text-align: right;
+    color: gray;
+    font-size: 20px;
+    position: relative;
+    bottom: 1120px;
+    padding: 15px;
+}
+.feet dd{
+ padding: 15px;   
+}
+.first{
+    background-color: #1E2022;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    
+}
+.first p{
+    color: gray;
+    font-size: 20px;
+}
+.third p{
+    text-align: center;
+    color: yellow;
+    font-size:40px; 
+    position: relative;
+    top: 100px;
+}
+.me{
+    color: red;
+}
+.fourth a{
+   text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    position: relative;
+    top: 190px;
+    
+}
+.precious a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    
+}
+.milk{
+    background-image: url(assets/food.png);
+    background-repeat: repeat-y;
+    background-size: cover;
+    height: 550px;  
+}
+.next a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    position: relative;
+    top: 500px; 
+    background-color: black;
+}
+.common{
+    background-image: url(assets/burger.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+    height: 550px;
+}
+.meek a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    position: relative;
+    top: 500px; 
+    background-color: black;
 }
